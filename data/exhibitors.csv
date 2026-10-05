@@ -1,0 +1,27 @@
+id,company,industry,products,budget_range,target_location,urgency,description
+E001,Gulf Medical AI,Healthcare,AI medical imaging;Medical AI;Secure IT infrastructure,50000-200000,Dubai,High,AI medical imaging and secure healthcare IT infrastructure for hospitals.
+E002,Emirates HealthTech,Healthcare,Medical analytics;AI diagnostics;Cloud healthcare infrastructure,100000-300000,Dubai,Medium,Healthcare AI analytics and cloud infrastructure for hospitals and medical organizations.
+E003,MedSecure Technologies,Healthcare,Cybersecurity;Secure healthcare infrastructure;Data protection,75000-250000,Abu Dhabi,High,Secure IT and cybersecurity solutions for healthcare organizations.
+E004,Industrial Automation Gulf,Manufacturing,Industrial automation;Predictive maintenance;IoT;Machine learning,150000-500000,Abu Dhabi,High,Industrial automation and AI predictive maintenance solutions for manufacturing companies.
+E005,Smart Factory AI,Manufacturing,AI manufacturing;Predictive maintenance;Industrial analytics,200000-600000,Dubai,High,AI-powered manufacturing analytics and predictive maintenance systems.
+E006,FactoryVision Systems,Manufacturing,Computer vision;Industrial automation;Machine monitoring,100000-400000,Abu Dhabi,Medium,Computer vision and industrial automation technologies for smart factories.
+E007,Dubai Retail AI,Retail,AI security cameras;Retail analytics;Computer vision,50000-150000,Dubai,Medium,AI-powered retail security cameras and customer analytics solutions.
+E008,Smart Retail Analytics,Retail,Customer analytics;Computer vision;Retail AI,50000-200000,Dubai,Medium,AI analytics platform for retail customer behavior and store optimization.
+E009,GCC Retail Security,Retail,AI surveillance;Security cameras;Loss prevention analytics,50000-180000,Dubai,High,AI security and retail loss prevention solutions.
+E010,Saudi Logistics AI,Logistics,Warehouse automation;Cloud AI;Supply chain analytics,150000-400000,Riyadh,High,Cloud AI and warehouse automation solutions for logistics companies.
+E011,Smart Warehouse Technologies,Logistics,Robotics;Warehouse automation;Predictive logistics,200000-500000,Riyadh,High,Smart warehouse robotics and AI-driven logistics optimization.
+E012,GCC Supply Chain AI,Logistics,Supply chain AI;Demand forecasting;Warehouse analytics,100000-350000,Dubai,Medium,AI analytics and forecasting solutions for logistics and supply chain operations.
+E013,Digital Classroom Technologies,Education,Digital classrooms;Cloud software;Education technology,50000-200000,Dubai,Medium,Cloud software and digital classroom technology for educational institutions.
+E014,Future Learning Systems,Education,Laptops;Cloud education software;Learning analytics,75000-250000,Dubai,Medium,Technology infrastructure and learning analytics for schools and universities.
+E015,EdTech Cloud Gulf,Education,Cloud education platform;Digital learning;AI education,50000-180000,Abu Dhabi,Medium,Cloud-based education platforms and AI learning technologies.
+E016,GCC Enterprise Cloud,Government;Enterprise,ERP cloud;Enterprise infrastructure;Cloud migration,250000-700000,Riyadh,High,Enterprise cloud and ERP infrastructure for government organizations.
+E017,Secure Government Systems,Government,Cybersecurity;Secure infrastructure;Government cloud,200000-600000,Riyadh,High,Secure enterprise infrastructure and cybersecurity for government organizations.
+E018,Government ERP Solutions,Government,ERP;Cloud ERP;Enterprise software,200000-550000,Riyadh,High,Cloud ERP and enterprise software for government departments.
+E019,Smart Energy AI,Energy,Energy management;AI analytics;Industrial automation,200000-600000,Riyadh,High,AI-powered energy management and industrial automation solutions.
+E020,Saudi Industrial Automation,Energy;Manufacturing,Industrial automation;IoT;Predictive maintenance,200000-700000,Riyadh,High,Industrial automation and IoT solutions for energy and manufacturing companies.
+E021,Energy Analytics Gulf,Energy,Energy analytics;AI forecasting;Energy optimization,150000-500000,Riyadh,Medium,AI-based energy forecasting analytics and optimization solutions.
+E022,Gulf Financial AI,Finance,Enterprise AI;Financial analytics;Secure infrastructure,150000-500000,Dubai,Medium,Enterprise AI analytics and secure infrastructure for financial institutions.
+E023,Dubai Finance Analytics,Finance;Banking,Financial analytics;Risk analytics;AI decision intelligence,150000-450000,Dubai,Medium,AI-powered financial analytics and decision intelligence for banks and finance companies.
+E024,Secure Finance Technologies,Finance;Cybersecurity,AI cybersecurity;Secure cloud;Financial data protection,200000-600000,Dubai,Medium,Secure cloud infrastructure and cybersecurity for financial organizations.
+E025,FinTech Intelligence Gulf,Finance;FinTech,Fraud detection;Risk prediction;Machine learning;Financial analytics,100000-400000,Dubai,High,Machine learning solutions for financial risk fraud detection and analytics.
+E026,Enterprise AI Middle East,Finance;Enterprise,Enterprise AI;Generative AI;Data analytics;Cloud infrastructure,200000-700000,Dubai,Medium,Enterprise AI analytics and cloud infrastructure for large organizations.

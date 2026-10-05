@@ -1,0 +1,9 @@
+id,company,industry,requirements,budget,target_location,urgency
+B001,Al Noor Hospital,Healthcare,AI medical imaging secure IT infrastructure,100000,Dubai,High
+B002,Emirates Manufacturing,Manufacturing,Industrial automation predictive maintenance,300000,Abu Dhabi,High
+B003,Gulf Retail Group,Retail,AI security cameras retail analytics,80000,Dubai,Medium
+B004,Saudi Logistics,Logistics,Cloud AI warehouse automation,250000,Riyadh,High
+B005,Future Education Group,Education,Laptops cloud software digital classrooms,150000,Dubai,Medium
+B006,Arabian Government Services,Government,ERP cloud secure enterprise infrastructure,500000,Riyadh,High
+B007,Smart Energy Corp,Energy,Energy management industrial automation,400000,Riyadh,High
+B008,Dubai Finance Group,Finance,Enterprise AI analytics secure infrastructure,350000,Dubai,Mediums

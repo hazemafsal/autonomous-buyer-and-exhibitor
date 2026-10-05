@@ -1,0 +1,1161 @@
+# GLOBAL BUSINESS TECHNOLOGY EXHIBITION
+
+# EXHIBITION KNOWLEDGE BASE
+
+## EVENT INFORMATION
+
+The Global Business Technology Exhibition connects technology providers, industrial companies, software companies, healthcare organizations, government organizations, financial institutions, retailers, educational institutions, energy companies, logistics companies and enterprise buyers.
+
+The exhibition focuses on:
+
+* Artificial Intelligence
+* Machine Learning
+* Enterprise Analytics
+* Business Intelligence
+* Cloud Computing
+* Enterprise Software
+* Cybersecurity
+* Secure IT Infrastructure
+* Industrial Automation
+* Predictive Maintenance
+* Smart Factory Technology
+* Retail Analytics
+* Computer Vision
+* Warehouse Automation
+* Supply Chain Technology
+* Education Technology
+* Digital Classrooms
+* Enterprise Resource Planning
+* Financial Technology
+* Risk Analytics
+* Energy Management
+* Data Infrastructure
+* Cloud Infrastructure
+
+---
+
+# BUYER-EXHIBITOR MATCHING RULES
+
+A strong buyer-exhibitor match should consider:
+
+1. Industry compatibility.
+2. Product and requirement compatibility.
+3. Budget compatibility.
+4. Geographic compatibility.
+5. Purchase urgency.
+6. Enterprise scale.
+7. Technology compatibility.
+8. Business expansion potential.
+
+The system should prioritize the buyer's actual business requirements rather than superficial keyword similarity.
+
+A buyer should receive a high match score when the exhibitor can realistically provide the products, technologies or services required by the buyer.
+
+Budget compatibility should consider whether the buyer's budget falls within or reasonably overlaps the exhibitor's typical project budget.
+
+Geographic compatibility should prioritize exhibitors operating in the buyer's target location.
+
+Urgency compatibility should prioritize exhibitors capable of supporting the buyer's expected purchasing timeline.
+
+---
+
+# EXHIBITOR E001
+
+## Gulf Medical AI
+
+Industry:
+
+Healthcare
+
+Products and Services:
+
+* AI medical imaging
+* Medical AI
+* Secure IT infrastructure
+
+Budget Range:
+
+$50,000 - $200,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+High
+
+Description:
+
+Gulf Medical AI provides artificial intelligence solutions for medical imaging and secure healthcare IT infrastructure.
+
+The company is suitable for hospitals, medical organizations and healthcare enterprises requiring AI-assisted medical imaging, healthcare analytics and secure IT infrastructure.
+
+Strong buyer requirements:
+
+* AI medical imaging
+* Medical AI
+* Healthcare AI
+* Secure healthcare infrastructure
+* Hospital technology
+
+---
+
+# EXHIBITOR E002
+
+## Emirates HealthTech
+
+Industry:
+
+Healthcare
+
+Products and Services:
+
+* Medical analytics
+* AI diagnostics
+* Cloud healthcare infrastructure
+
+Budget Range:
+
+$100,000 - $300,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Emirates HealthTech provides healthcare AI analytics, AI diagnostic technologies and cloud infrastructure for healthcare organizations.
+
+The company is particularly suitable for hospitals and medical organizations looking for AI diagnostics, healthcare analytics and scalable cloud infrastructure.
+
+Strong buyer requirements:
+
+* Medical analytics
+* AI diagnostics
+* Healthcare cloud
+* AI healthcare infrastructure
+* Hospital analytics
+
+---
+
+# EXHIBITOR E003
+
+## MedSecure Technologies
+
+Industry:
+
+Healthcare
+Cybersecurity
+
+Products and Services:
+
+* Cybersecurity
+* Secure healthcare infrastructure
+* Healthcare data protection
+
+Budget Range:
+
+$75,000 - $250,000
+
+Location:
+
+Abu Dhabi, UAE
+
+Urgency:
+
+High
+
+Description:
+
+MedSecure Technologies provides cybersecurity and secure infrastructure solutions for healthcare organizations.
+
+The company is suitable for hospitals and medical institutions that require secure IT environments, healthcare data protection and cybersecurity.
+
+Strong buyer requirements:
+
+* Healthcare cybersecurity
+* Secure IT infrastructure
+* Data protection
+* Hospital security
+* Secure healthcare systems
+
+---
+
+# EXHIBITOR E004
+
+## Industrial Automation Gulf
+
+Industry:
+
+Manufacturing
+
+Products and Services:
+
+* Industrial automation
+* Predictive maintenance
+* IoT
+* Machine learning
+
+Budget Range:
+
+$150,000 - $500,000
+
+Location:
+
+Abu Dhabi, UAE
+
+Urgency:
+
+High
+
+Description:
+
+Industrial Automation Gulf provides industrial automation, IoT and AI-powered predictive maintenance solutions for manufacturing companies.
+
+The company is particularly suitable for factories and industrial organizations looking to improve production efficiency, machine reliability and operational performance.
+
+Strong buyer requirements:
+
+* Industrial automation
+* Predictive maintenance
+* Smart factory
+* Manufacturing AI
+* Industrial IoT
+
+---
+
+# EXHIBITOR E005
+
+## Smart Factory AI
+
+Industry:
+
+Manufacturing
+
+Products and Services:
+
+* AI manufacturing
+* Predictive maintenance
+* Industrial analytics
+
+Budget Range:
+
+$200,000 - $600,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+High
+
+Description:
+
+Smart Factory AI provides artificial intelligence, industrial analytics and predictive maintenance technologies for manufacturing organizations.
+
+The company is suitable for enterprises seeking smart factory transformation, predictive maintenance and AI-based manufacturing optimization.
+
+Strong buyer requirements:
+
+* Manufacturing AI
+* Predictive maintenance
+* Smart factories
+* Industrial analytics
+* Production optimization
+
+---
+
+# EXHIBITOR E006
+
+## FactoryVision Systems
+
+Industry:
+
+Manufacturing
+
+Products and Services:
+
+* Computer vision
+* Industrial automation
+* Machine monitoring
+
+Budget Range:
+
+$100,000 - $400,000
+
+Location:
+
+Abu Dhabi, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+FactoryVision Systems provides computer vision, machine monitoring and industrial automation technologies for smart manufacturing environments.
+
+The company is suitable for manufacturers requiring automated inspection, machine monitoring and intelligent factory systems.
+
+Strong buyer requirements:
+
+* Computer vision
+* Industrial automation
+* Machine monitoring
+* Smart manufacturing
+* Factory automation
+
+---
+
+# EXHIBITOR E007
+
+## Dubai Retail AI
+
+Industry:
+
+Retail
+
+Products and Services:
+
+* AI security cameras
+* Retail analytics
+* Computer vision
+
+Budget Range:
+
+$50,000 - $150,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Dubai Retail AI provides AI-powered security camera systems, retail analytics and computer vision technologies.
+
+The company is particularly suitable for retail organizations seeking intelligent surveillance, customer analytics and store optimization.
+
+Strong buyer requirements:
+
+* AI security cameras
+* Retail analytics
+* Computer vision
+* Retail AI
+* Intelligent surveillance
+
+---
+
+# EXHIBITOR E008
+
+## Smart Retail Analytics
+
+Industry:
+
+Retail
+
+Products and Services:
+
+* Customer analytics
+* Computer vision
+* Retail AI
+
+Budget Range:
+
+$50,000 - $200,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Smart Retail Analytics provides AI-based customer analytics and computer vision solutions for retail businesses.
+
+The company helps retailers understand customer behavior, optimize stores and improve business performance using artificial intelligence.
+
+Strong buyer requirements:
+
+* Customer analytics
+* Retail analytics
+* Computer vision
+* Retail AI
+* Customer behavior analysis
+
+---
+
+# EXHIBITOR E009
+
+## GCC Retail Security
+
+Industry:
+
+Retail
+
+Products and Services:
+
+* AI surveillance
+* Security cameras
+* Loss prevention analytics
+
+Budget Range:
+
+$50,000 - $180,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+High
+
+Description:
+
+GCC Retail Security provides AI surveillance, security camera systems and loss prevention analytics for retail organizations.
+
+The company is suitable for retailers requiring intelligent security, loss prevention and AI-powered surveillance.
+
+Strong buyer requirements:
+
+* AI security cameras
+* Retail security
+* Loss prevention
+* AI surveillance
+* Computer vision
+
+---
+
+# EXHIBITOR E010
+
+## Saudi Logistics AI
+
+Industry:
+
+Logistics
+
+Products and Services:
+
+* Warehouse automation
+* Cloud AI
+* Supply chain analytics
+
+Budget Range:
+
+$150,000 - $400,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+High
+
+Description:
+
+Saudi Logistics AI provides cloud-based artificial intelligence, warehouse automation and supply chain analytics.
+
+The company is suitable for logistics organizations looking to automate warehouses and improve supply chain performance.
+
+Strong buyer requirements:
+
+* Warehouse automation
+* Cloud AI
+* Supply chain analytics
+* Logistics AI
+* Warehouse optimization
+
+---
+
+# EXHIBITOR E011
+
+## Smart Warehouse Technologies
+
+Industry:
+
+Logistics
+
+Products and Services:
+
+* Robotics
+* Warehouse automation
+* Predictive logistics
+
+Budget Range:
+
+$200,000 - $500,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+High
+
+Description:
+
+Smart Warehouse Technologies provides robotics, warehouse automation and predictive logistics solutions.
+
+The company is suitable for logistics companies requiring intelligent warehouse operations, robotics and predictive supply chain capabilities.
+
+Strong buyer requirements:
+
+* Warehouse automation
+* Robotics
+* Predictive logistics
+* Smart warehouses
+* Supply chain automation
+
+---
+
+# EXHIBITOR E012
+
+## GCC Supply Chain AI
+
+Industry:
+
+Logistics
+
+Products and Services:
+
+* Supply chain AI
+* Demand forecasting
+* Warehouse analytics
+
+Budget Range:
+
+$100,000 - $350,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+GCC Supply Chain AI provides artificial intelligence for supply chain management, demand forecasting and warehouse analytics.
+
+The company is suitable for logistics and supply chain organizations requiring predictive analytics and operational optimization.
+
+Strong buyer requirements:
+
+* Supply chain AI
+* Demand forecasting
+* Warehouse analytics
+* Logistics analytics
+* Predictive analytics
+
+---
+
+# EXHIBITOR E013
+
+## Digital Classroom Technologies
+
+Industry:
+
+Education
+
+Products and Services:
+
+* Digital classrooms
+* Cloud software
+* Education technology
+
+Budget Range:
+
+$50,000 - $200,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Digital Classroom Technologies provides cloud software and digital classroom technologies for educational institutions.
+
+The company is suitable for schools, universities and education groups looking to modernize classroom infrastructure and digital learning environments.
+
+Strong buyer requirements:
+
+* Digital classrooms
+* Education technology
+* Cloud education software
+* Digital learning
+* Classroom technology
+
+---
+
+# EXHIBITOR E014
+
+## Future Learning Systems
+
+Industry:
+
+Education
+
+Products and Services:
+
+* Laptops
+* Cloud education software
+* Learning analytics
+
+Budget Range:
+
+$75,000 - $250,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Future Learning Systems provides laptops, cloud education software and learning analytics solutions for educational organizations.
+
+The company is suitable for schools and universities requiring computing infrastructure, digital learning platforms and education analytics.
+
+Strong buyer requirements:
+
+* Laptops
+* Cloud software
+* Digital classrooms
+* Learning analytics
+* Education technology
+
+---
+
+# EXHIBITOR E015
+
+## EdTech Cloud Gulf
+
+Industry:
+
+Education
+
+Products and Services:
+
+* Cloud education platform
+* Digital learning
+* AI education
+
+Budget Range:
+
+$50,000 - $180,000
+
+Location:
+
+Abu Dhabi, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+EdTech Cloud Gulf provides cloud-based education platforms, digital learning technologies and AI education solutions.
+
+The company is suitable for universities, schools and educational organizations seeking scalable cloud learning infrastructure.
+
+Strong buyer requirements:
+
+* Cloud education
+* Digital learning
+* AI education
+* Education platforms
+* Digital classroom infrastructure
+
+---
+
+# EXHIBITOR E016
+
+## GCC Enterprise Cloud
+
+Industry:
+
+Government
+Enterprise
+
+Products and Services:
+
+* ERP cloud
+* Enterprise infrastructure
+* Cloud migration
+
+Budget Range:
+
+$250,000 - $700,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+High
+
+Description:
+
+GCC Enterprise Cloud provides enterprise cloud infrastructure, ERP cloud solutions and cloud migration services.
+
+The company is particularly suitable for government organizations and large enterprises requiring ERP systems and secure enterprise infrastructure.
+
+Strong buyer requirements:
+
+* ERP
+* Cloud infrastructure
+* Enterprise infrastructure
+* Cloud migration
+* Government technology
+
+---
+
+# EXHIBITOR E017
+
+## Secure Government Systems
+
+Industry:
+
+Government
+Cybersecurity
+
+Products and Services:
+
+* Cybersecurity
+* Secure infrastructure
+* Government cloud
+
+Budget Range:
+
+$200,000 - $600,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+High
+
+Description:
+
+Secure Government Systems provides cybersecurity, secure enterprise infrastructure and government cloud solutions.
+
+The company is suitable for government organizations requiring secure digital infrastructure, cloud services and cybersecurity.
+
+Strong buyer requirements:
+
+* Secure infrastructure
+* Government cloud
+* Cybersecurity
+* Enterprise security
+* Government IT
+
+---
+
+# EXHIBITOR E018
+
+## Government ERP Solutions
+
+Industry:
+
+Government
+
+Products and Services:
+
+* ERP
+* Cloud ERP
+* Enterprise software
+
+Budget Range:
+
+$200,000 - $550,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+High
+
+Description:
+
+Government ERP Solutions provides enterprise resource planning, cloud ERP and enterprise software.
+
+The company is particularly suitable for government organizations and large enterprises requiring ERP implementation and enterprise digital transformation.
+
+Strong buyer requirements:
+
+* ERP
+* Cloud ERP
+* Enterprise software
+* Government systems
+* Business process management
+
+---
+
+# EXHIBITOR E019
+
+## Smart Energy AI
+
+Industry:
+
+Energy
+
+Products and Services:
+
+* Energy management
+* AI analytics
+* Industrial automation
+
+Budget Range:
+
+$200,000 - $600,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+High
+
+Description:
+
+Smart Energy AI provides artificial intelligence, energy management and industrial automation solutions for energy organizations.
+
+The company is suitable for energy companies requiring energy optimization, industrial automation and AI analytics.
+
+Strong buyer requirements:
+
+* Energy management
+* AI analytics
+* Industrial automation
+* Energy optimization
+* Industrial AI
+
+---
+
+# EXHIBITOR E020
+
+## Saudi Industrial Automation
+
+Industry:
+
+Energy
+Manufacturing
+
+Products and Services:
+
+* Industrial automation
+* IoT
+* Predictive maintenance
+
+Budget Range:
+
+$200,000 - $700,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+High
+
+Description:
+
+Saudi Industrial Automation provides industrial automation, IoT and predictive maintenance technologies.
+
+The company is suitable for energy and manufacturing organizations requiring automation, machine monitoring and predictive maintenance.
+
+Strong buyer requirements:
+
+* Industrial automation
+* IoT
+* Predictive maintenance
+* Manufacturing technology
+* Energy technology
+
+---
+
+# EXHIBITOR E021
+
+## Energy Analytics Gulf
+
+Industry:
+
+Energy
+
+Products and Services:
+
+* Energy analytics
+* AI forecasting
+* Energy optimization
+
+Budget Range:
+
+$150,000 - $500,000
+
+Location:
+
+Riyadh, Saudi Arabia
+
+Urgency:
+
+Medium
+
+Description:
+
+Energy Analytics Gulf provides AI-based energy forecasting, analytics and optimization solutions.
+
+The company is suitable for energy companies seeking improved forecasting, energy efficiency and AI-based decision support.
+
+Strong buyer requirements:
+
+* Energy analytics
+* AI forecasting
+* Energy optimization
+* Predictive analytics
+* Energy management
+
+---
+
+# EXHIBITOR E022
+
+## Gulf Financial AI
+
+Industry:
+
+Finance
+
+Products and Services:
+
+* Enterprise AI
+* Financial analytics
+* Secure infrastructure
+
+Budget Range:
+
+$150,000 - $500,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Gulf Financial AI provides enterprise artificial intelligence, financial analytics and secure infrastructure solutions for financial organizations.
+
+The company is particularly suitable for finance companies requiring enterprise AI analytics and secure infrastructure.
+
+Strong buyer requirements:
+
+* Enterprise AI
+* Financial analytics
+* Secure infrastructure
+* Finance AI
+* Enterprise analytics
+
+---
+
+# EXHIBITOR E023
+
+## Dubai Finance Analytics
+
+Industry:
+
+Finance
+Banking
+
+Products and Services:
+
+* Financial analytics
+* Risk analytics
+* AI decision intelligence
+
+Budget Range:
+
+$150,000 - $450,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Dubai Finance Analytics provides financial analytics, risk analytics and AI-powered decision intelligence.
+
+The company is suitable for banks, financial institutions and finance companies requiring analytics and AI-based decision support.
+
+Strong buyer requirements:
+
+* Financial analytics
+* Risk analytics
+* AI analytics
+* Decision intelligence
+* Banking AI
+
+---
+
+# EXHIBITOR E024
+
+## Secure Finance Technologies
+
+Industry:
+
+Finance
+Cybersecurity
+
+Products and Services:
+
+* AI cybersecurity
+* Secure cloud
+* Financial data protection
+
+Budget Range:
+
+$200,000 - $600,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Secure Finance Technologies provides AI cybersecurity, secure cloud infrastructure and financial data protection.
+
+The company is suitable for financial organizations requiring secure enterprise infrastructure, cloud security and financial data protection.
+
+Strong buyer requirements:
+
+* Secure infrastructure
+* Cybersecurity
+* Secure cloud
+* Financial data protection
+* Enterprise security
+
+---
+
+# EXHIBITOR E025
+
+## FinTech Intelligence Gulf
+
+Industry:
+
+Finance
+FinTech
+
+Products and Services:
+
+* Fraud detection
+* Risk prediction
+* Machine learning
+* Financial analytics
+
+Budget Range:
+
+$100,000 - $400,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+High
+
+Description:
+
+FinTech Intelligence Gulf provides machine learning solutions for financial risk prediction, fraud detection and financial analytics.
+
+The company is suitable for financial institutions and FinTech organizations seeking AI-driven risk management and fraud analytics.
+
+Strong buyer requirements:
+
+* Fraud detection
+* Risk prediction
+* Machine learning
+* Financial analytics
+* FinTech AI
+
+---
+
+# EXHIBITOR E026
+
+## Enterprise AI Middle East
+
+Industry:
+
+Finance
+Enterprise
+
+Products and Services:
+
+* Enterprise AI
+* Generative AI
+* Data analytics
+* Cloud infrastructure
+
+Budget Range:
+
+$200,000 - $700,000
+
+Location:
+
+Dubai, UAE
+
+Urgency:
+
+Medium
+
+Description:
+
+Enterprise AI Middle East provides enterprise artificial intelligence, generative AI, data analytics and cloud infrastructure.
+
+The company is suitable for large enterprises and financial organizations requiring enterprise AI, analytics and scalable cloud infrastructure.
+
+Strong buyer requirements:
+
+* Enterprise AI
+* Generative AI
+* Data analytics
+* Cloud infrastructure
+* Enterprise analyt
