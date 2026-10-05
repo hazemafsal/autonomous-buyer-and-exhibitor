@@ -2,6 +2,7 @@ import os
 import gc
 
 import pandas as pd
+import streamlit as st
 
 from dotenv import load_dotenv
 
@@ -19,7 +20,7 @@ from rag.vectorstore import (
 
 load_dotenv()
 
-
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
@@ -60,6 +61,7 @@ def load_data():
 # ==========================================================
 # GEMINI
 # ==========================================================
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 
 _llm = None
 
@@ -82,7 +84,7 @@ def get_llm():
 
         _llm = ChatGoogleGenerativeAI(
 
-            model="gemini-2.5-flash",
+            model="gemini-3.6-flash",
 
             google_api_key=api_key,
 
